@@ -1,0 +1,14 @@
+html {
+    font-family: Verdana;
+    font-weight: normal;
+    background-color: black;
+}
+h1{
+    font-size: 50px;
+    color: white;
+    text-align: centered;
+}
+p{
+    color: aquamarine;
+    font-size: 16px;
+}
