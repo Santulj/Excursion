@@ -1,7 +1,8 @@
-html {
+body {
     font-family: Verdana;
     font-weight: normal;
     background-color: black;
+    text-align: centered;
 }
 h1{
     font-size: 50px;
